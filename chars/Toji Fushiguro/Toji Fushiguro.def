@@ -1,0 +1,20 @@
+[Info]
+name="Toji Fushiguro"
+displayname="Toji Fushiguro"
+versiondate=11/08/2023
+mugenversion=1.1
+author="Soulfire"
+pal.defaults=
+[Files]
+sprite=Toji Fushiguro.sff
+sound=Toji Fushiguro.snd
+anim=Toji Fushiguro.air
+cmd=Toji Fushiguro.cmd
+cns=Toji Fushiguro.cns
+st=Toji Fushiguro.cns
+stcommon=common1.cns
+pal1=1.act
+pal2=
+[Arcade]
+intro.storyboard=
+ending.storyboard=

@@ -1,0 +1,12 @@
+[FNT v2]
+fntversion = 2,00
+name = "impact"
+author = "danteg9"
+
+[Def]
+Type = truetype
+Size = 20,52
+Spacing = 1,0
+Offset = 0,0
+File = impact.ttf
+Blend = 1

@@ -1,0 +1,19 @@
+[Info]
+name="Yuta"
+mugenversion=1.1
+author="Soulfire, edit by clowntown"
+pal.defaults=
+[Files]
+sprite=Yuta.sff
+sound=Yuta.snd
+anim=Yuta.air
+cmd=Yuta.cmd
+cns=Yuta.cns
+st=Yuta.cns
+st1 = Domain.cns
+stcommon=common1.cns
+pal1=1.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=
+

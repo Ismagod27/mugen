@@ -1,0 +1,14 @@
+[info]
+name = "Urameshi Yusuke"
+mugenversion = 1.1       ; Academy Version -> [October 02, 2024]
+author = "InSeph"
+
+[files]
+anim==/anim.air
+cmd==/cmd.cmd
+cns==/main.cns
+sound==/snd.snd
+sprite==/spr.sff
+stcommon==/main.cns
+st==/main.cns
+movelist==/movelist.dat

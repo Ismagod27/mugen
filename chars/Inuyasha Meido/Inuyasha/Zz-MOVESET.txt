@@ -1,0 +1,28 @@
+
+A - Combo 1
+
+B - Combo 2
+
+C - Kijin Tesso
+
+S - Power Charge
+
+SPECIALS:
+
+D,DF,F,a - Kaze no Kizu
+
+D,DB,B,a - Kaze no Kizu 2
+
+D,DF,F,b - Sankon Tesso
+
+D,DB,B,b - Kijin Tesso
+
+D,DF,F,c - Bakuryuha
+
+D,DB,B,c - Kongosouha
+
+D,c - Sword Shield
+
+SUPER: 
+
+D,s - Kaze no Kizu-souha

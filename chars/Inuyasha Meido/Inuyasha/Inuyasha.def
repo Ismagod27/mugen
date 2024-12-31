@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Inuyasha"
+displayname ="Inuyasha"
+versiondate =01/12/2023
+mugenversion =1.1
+author ="suga saki edited by Vaaeyt"
+pal.defaults =1
+
+[Files]
+sprite =Inuyasha.sff
+anim =Inuyasha.air
+sound =Inuyasha.snd
+cmd =Inuyasha.cmd
+cns =Inuyasha.cns
+stcommon =common1.cns
+st =Inuyasha.cns
+pal1=1.act
+st1=IA.cns
+st2=Especials.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

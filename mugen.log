@@ -1,0 +1,1196 @@
+---------------------------------------------------
+M.U.G.E.N ver 1.1.0 Beta 1 P1 (2013.08.11) status log
+---------------------------------------------------
+Parsing command line...
+Command line: E:\+Mugen 2.0\Mugen.exe
+Parse command line OK
+Initializing...
+Allocating game variables
+Reading configuration file...Setting language "en".
+OK
+Initializing timer...performance timer enabled...frequency 10000000...OK
+Initializing keyboard...configuring...OK
+Initializing input engine...OK
+Initializing sound...OK
+Initializing BGM...  OK
+Initializing graphics...gameCoord 1280x720...render mode 0_18...trying 1280x720x16 mode 0x0...success...OK
+Setting callbacks...OK
+Initializing font...OK
+Initializing game variables...OK
+Session RNG seed is 1735616818
+Loading system fonts...OK
+Loading options...
+Initializing pads...failed
+Reinitializing input engine...OK
+Remapping keys...OK
+Reinitializing input engine...OK
+Options loaded OK
+Loading system...
+  Load system file system.def...OK
+  Load system spr...OK
+  Load system snd...OK
+  Load system fonts...OK
+  Load system anim...OK
+  Load [Title Info]...OK
+  Load [Option Info]...OK
+  Load [Select Info]...OK
+  Load [VS Screen]...OK
+  Load [Victory Screen]...OK
+  Load [Demo Mode]...OK
+  Load [Continue Screen]...OK
+  Load [Game Over Screen]...OK
+  Load [Win Screen]...OK
+  Load [Survival Results Screen]...OK
+  Load [Default Ending]...OK
+  Load [End Credits]...OK
+  Load TitleBG...VersusBG...VictoryBG...SelectBG...OptionBG...OK
+  Loading fight data
+    Opening fight data file data/LIFEBARS/fight.def...OK
+    Reading [Files]...OK
+    Loading fonts...OK
+    Load fight anim...OK
+    Reading [Lifebar]...[Turns Lifebar]...[Simul Lifebar]...[Powerbar]...
+    [Face]...[Simul Face]...[Turns Face]...
+    [Name]...[Simul Name]...[Turns Name]...
+    [Time]...[Combo]...[Round]...[WinIcon]...OK
+    Allocating explods...OK
+  Fight data loaded OK
+Lua initing
+Lua init complete
+System loaded OK
+Initialize OK
+Set up graphics...timer...OK
+
+Entering gameflow loop
+Gameflow 0
+Gameflow 1
+Playing storyboard logo.def: scene
+Unloading match assets
+Freeing players
+Game loop init
+Game loop deinit
+Finished playing storyboard logo.def: scene
+Gameflow 2
+Initializing character info...OK
+Initializing select screen...finding characters...
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/Mahoraga/Mahoraga.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+
+  Error reading character file: chars/empty/empty.def
+OK
+Gameflow 3
+Gameflow 4
+Entering mode select.
+Unloading match assets
+Freeing players
+Game loop init
+Mode select init
+End of mode select loop
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Game loop init
+Unreserved all palettes
+Charsel init
+Selected char 1 on teamslot 0.0
+Char Inuyasha.def (1) request pal 0 1 (1) -> reserved 0 (0)
+Loading character chars/Inuyasha Meido\Inuyasha\Inuyasha.def...
+  Loading info...OK
+  Loading cmd command set Inuyasha.cmd...OK
+  Loading cns Inuyasha.cns...OK
+  Loading cns IA.cns...OK
+  Loading cns Especials.cns...OK
+  Loading cns Supers.cns...OK
+  Loading cmd state entry Inuyasha.cmd...OK
+  Loading common states common1.cns...OK
+  Loading sff Inuyasha.sff...OK
+  Loading anim Inuyasha.air...OK
+  Loading snd Inuyasha.snd...OK
+  Loading pals...OK
+  18532 expressions (3940 on trigger lines)
+Character Inuyasha.def loaded OK
+New char Inuyasha loaded into cache: (1/4 cached) Load time: 1060.000ms
+Player Inuyasha cache count reduced: 0
+Selected char 2 on teamslot 1.0
+Char Sesshomaru.def (2) request pal 0 1 (1) -> reserved 0 (0)
+Loading character chars/Sesshomaru Bakusaiga\Sesshomaru\Sesshomaru.def...
+  Loading info...OK
+  Loading cmd command set Sesshomaru.cmd...OK
+  Loading cns Sesshomaru.cns...OK
+  Loading cns IA.cns...OK
+  Loading cns Especials.cns...OK
+  Loading cns Supers.cns...OK
+  Loading cmd state entry Sesshomaru.cmd...OK
+  Loading common states common1.cns...OK
+  Loading sff Sesshomaru.sff...OK
+  Loading anim Sesshomaru.air...OK
+  Loading snd Sesshomaru.snd...End of charsel loop
+Game loop deinit
+Gameflow 8
+Gameflow 9
+Gameflow 10
+Entering versus screen.
+Unloading match assets
+Freeing players
+Game loop init
+Versus screen init
+OK
+  Loading pals...OK
+  19641 expressions (4145 on trigger lines)
+Character Sesshomaru.def loaded OK
+New char Sesshomaru loaded into cache: (2/4 cached) Load time: 1050.000ms
+Player Sesshomaru cache count reduced: 0
+End of versus screen loop
+Game loop deinit
+Gameflow 11
+Loading match assets...
+Loading stage...
+  Loading BG...OK
+Stage loaded OK
+  Allocating helpers...OK
+Match RNG seed: 652406224
+Reset persist vars team 0
+Reset persist vars team 1
+Player Inuyasha cache count increased: 1
+Player Sesshomaru cache count increased: 1
+Resetting round
+Match assets initialized OK
+Game loop init
+Match loop init
+End of match loop
+Total time: 21.69s
+Total frames: 1300 	Skipped frames: 22
+Avg game rate: 59.94
+Avg frame rate: 58.92
+
+Finishing match
+Freeing players
+Save persist vars P56 Inuyasha
+Player Inuyasha cache count reduced: 0
+Save persist vars P57 Sesshomaru
+Player Sesshomaru cache count reduced: 0
+Match RNG closed
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Unloading stage...OK
+Game loop init
+Unreserved all palettes
+Charsel init
+Selected char 0 on teamslot 0.0
+Char Toji Fushiguro.def (0) request pal 0 3 (3) -> reserved 0 (2)
+Loading character chars/Toji Fushiguro/Toji Fushiguro.def...
+  Loading info...OK
+  Loading cmd command set Toji Fushiguro.cmd...OK
+  Loading cns Toji Fushiguro.cns...OK
+  Loading cmd state entry Toji Fushiguro.cmd...OK
+  Loading common states common1.cns...OK
+  Loading sff Toji Fushiguro.sff...OK
+  Loading anim Toji Fushiguro.air...OK
+  Loading snd Toji Fushiguro.snd...OK
+  Loading pals...OK
+  9138 expressions (2429 on trigger lines)
+Character Toji Fushiguro.def loaded OK
+New char Toji Fushiguro loaded into cache: (3/4 cached) Load time: 310.000ms
+Player Toji Fushiguro cache count reduced: 0
+Selected char 2 on teamslot 1.0
+Char Sesshomaru.def (2) request pal 0 1 (1) -> reserved 0 (0)
+End of charsel loop
+Game loop deinit
+Gameflow 8
+Gameflow 9
+Gameflow 10
+Entering versus screen.
+Unloading match assets
+Freeing players
+Game loop init
+Versus screen init
+End of versus screen loop
+Game loop deinit
+Gameflow 11
+Loading match assets...
+Loading stage...
+  Loading BG...OK
+Stage loaded OK
+  Allocating helpers...OK
+Match RNG seed: 1168783591
+Reset persist vars team 0
+Reset persist vars team 1
+Player Toji Fushiguro cache count increased: 1
+Player Sesshomaru cache count increased: 1
+Resetting round
+Match assets initialized OK
+Game loop init
+Match loop init
+End of match loop
+Total time: 8.63s
+Total frames: 518 	Skipped frames: 3
+Avg game rate: 60.02
+Avg frame rate: 59.68
+
+Finishing match
+Freeing players
+Save persist vars P56 Toji Fushiguro
+Player Toji Fushiguro cache count reduced: 0
+Save persist vars P57 Sesshomaru
+Player Sesshomaru cache count reduced: 0
+Match RNG closed
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Unloading stage...OK
+Game loop init
+Unreserved all palettes
+Charsel init
+Game loop deinit
+Canceled character select.
+Gameflow 4
+Entering mode select.
+Unloading match assets
+Freeing players
+Game loop init
+Mode select init
+End of mode select loop
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Game loop init
+Unreserved all palettes
+Charsel init
+Selected char 0 on teamslot 0.0
+Char Toji Fushiguro.def (0) request pal 0 3 (3) -> reserved 0 (2)
+Selected char 2 on teamslot 1.0
+Char Sesshomaru.def (2) request pal 0 1 (1) -> reserved 0 (0)
+End of charsel loop
+Game loop deinit
+Gameflow 8
+Gameflow 9
+Gameflow 10
+Entering versus screen.
+Unloading match assets
+Freeing players
+Game loop init
+Versus screen init
+End of versus screen loop
+Game loop deinit
+Gameflow 11
+Loading match assets...
+Loading stage...
+  Loading BG...OK
+Stage loaded OK
+  Allocating helpers...OK
+Match RNG seed: 529632335
+Reset persist vars team 0
+Reset persist vars team 1
+Player Toji Fushiguro cache count increased: 1
+Player Sesshomaru cache count increased: 1
+Resetting round
+Match assets initialized OK
+Game loop init
+Match loop init
+End of match loop
+Total time: 23.41s
+Total frames: 1405 	Skipped frames: 50
+Avg game rate: 60.02
+Avg frame rate: 57.88
+
+Finishing match
+Freeing players
+Save persist vars P56 Toji Fushiguro
+Player Toji Fushiguro cache count reduced: 0
+Save persist vars P57 Sesshomaru
+Player Sesshomaru cache count reduced: 0
+Match RNG closed
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Unloading stage...OK
+Game loop init
+Unreserved all palettes
+Charsel init
+Selected char 3 on teamslot 0.0
+Char Yusuke.def (3) request pal 0 0 (0) -> reserved 0 (0)
+Loading character chars/Yusuke/Yusuke.def...
+  Loading info...OK
+  Loading cmd command set =/cmd.cmd...OK
+  Loading cns =/main.cns...OK
+  Loading cmd state entry =/cmd.cmd...OK
+  Loading common states =/main.cns...OK
+  Loading sff =/spr.sff...OK
+  Loading anim =/anim.air...OK
+  Loading snd =/snd.snd...Selected char 2 on teamslot 1.0
+Char Sesshomaru.def (2) request pal 0 1 (1) -> reserved 0 (0)
+OK
+  Loading pals...OK
+  24573 expressions (5820 on trigger lines)
+Character Yusuke.def loaded OK
+New char Urameshi Yusuke loaded into cache: (4/4 cached) Load time: 870.000ms
+Player Urameshi Yusuke cache count reduced: 0
+End of charsel loop
+Game loop deinit
+Gameflow 8
+Gameflow 9
+Gameflow 10
+Entering versus screen.
+Unloading match assets
+Freeing players
+Game loop init
+Versus screen init
+End of versus screen loop
+Game loop deinit
+Gameflow 11
+Loading match assets...
+Loading stage...
+  Loading BG...OK
+Stage loaded OK
+  Allocating helpers...OK
+Match RNG seed: 979602976
+Reset persist vars team 0
+Reset persist vars team 1
+Player Urameshi Yusuke cache count increased: 1
+Player Sesshomaru cache count increased: 1
+Resetting round
+Match assets initialized OK
+Game loop init
+Match loop init
+End of match loop
+Total time: 69.24s
+Total frames: 4153 	Skipped frames: 298
+Avg game rate: 59.98
+Avg frame rate: 55.68
+
+Finishing match
+Freeing players
+Save persist vars P56 Urameshi Yusuke
+Player Urameshi Yusuke cache count reduced: 0
+Save persist vars P57 Sesshomaru
+Player Sesshomaru cache count reduced: 0
+Match RNG closed
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Unloading stage...OK
+Game loop init
+Unreserved all palettes
+Charsel init
+Selected char 4 on teamslot 0.0
+Char Yuta.def (4) request pal 0 1 (1) -> reserved 0 (0)
+Player Inuyasha purged from cache: 2
+Freeing player RC Inuyasha...CMD...CNS...SFF...AIR...SND...Misc...OK
+Loading character chars/Yuta/Yuta.def...
+  Loading info...OK
+  Loading cmd command set Yuta.cmd...OK
+  Loading cns Yuta.cns...OK
+  Loading cns Domain.cns...OK
+  Loading cmd state entry Yuta.cmd...OK
+  Loading common states common1.cns...OK
+  Loading sff Yuta.sff...OK
+  Loading anim Yuta.air...OK
+  Loading snd Yuta.snd...Selected char 2 on teamslot 1.0
+Char Sesshomaru.def (2) request pal 0 1 (1) -> reserved 0 (0)
+OK
+  Loading pals...OK
+  12340 expressions (2768 on trigger lines)
+Character Yuta.def loaded OK
+New char Yuta loaded into cache: (4/4 cached) Load time: 420.000ms
+Player Yuta cache count reduced: 0
+End of charsel loop
+Game loop deinit
+Gameflow 8
+Gameflow 9
+Gameflow 10
+Entering versus screen.
+Unloading match assets
+Freeing players
+Game loop init
+Versus screen init
+End of versus screen loop
+Game loop deinit
+Gameflow 11
+Loading match assets...
+Loading stage...
+  Loading BG...OK
+Stage loaded OK
+  Allocating helpers...OK
+Match RNG seed: 1266941000
+Reset persist vars team 0
+Reset persist vars team 1
+Player Yuta cache count increased: 1
+Player Sesshomaru cache count increased: 1
+Resetting round
+Match assets initialized OK
+Game loop init
+Match loop init
+End of match loop
+Total time: 84.20s
+Total frames: 5053 	Skipped frames: 142
+Avg game rate: 60.01
+Avg frame rate: 58.33
+
+Finishing match
+Freeing players
+Save persist vars P56 Yuta
+Player Yuta cache count reduced: 0
+Save persist vars P57 Sesshomaru
+Player Sesshomaru cache count reduced: 0
+Match RNG closed
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Unloading stage...OK
+Game loop init
+Unreserved all palettes
+Charsel init
+Game loop deinit
+Canceled character select.
+Gameflow 4
+Entering mode select.
+Unloading match assets
+Freeing players
+Game loop init
+Mode select init
+End of mode select loop
+Game loop deinit
+Returned from gameflow loop
+Deinitializing...
+Frames      : 15168
+Time elapsed: 253.240 sec
+ticks: 25324, tps: 100, start 113, end 25437
+
+Unloading match assets
+Freeing players
+Clearing player cache...Freeing player RC Toji Fushiguro...CMD...CNS...SFF...AIR...SND...Misc...OK
+Freeing player RC Sesshomaru...CMD...CNS...SFF...AIR...SND...Misc...OK
+Freeing player RC Urameshi Yusuke...CMD...CNS...SFF...AIR...SND...Misc...OK
+Freeing player RC Yuta...CMD...CNS...SFF...AIR...SND...Misc...OK
+OK
+Freeing character info...OK
+Freeing select screen...OK
+Freeing fight data...OK
+Freeing system data...OK
+Freeing game variables...Unloading match assets
+Freeing players
+OK
+Deinitializing input...pad...keyboard...OK
+Removing callbacks...OK
+Deintializing timer...OK
+Deinitializing graphics...OK
+Deinitializing BGM...OK
+Deinitializing sound...OK
+Successful program termination.
+
+Log file successfully closed.

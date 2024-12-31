@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Sesshomaru"
+displayname ="Sesshomaru"
+versiondate =03/27/2024
+mugenversion =1.1
+author ="suga saki r edited by Vaaeyt"
+pal.defaults =1
+
+[Files]
+sprite =Sesshomaru.sff
+anim =Sesshomaru.air
+sound =Sesshomaru.snd
+cmd =Sesshomaru.cmd
+cns =Sesshomaru.cns
+stcommon =common1.cns
+st =Sesshomaru.cns
+pal1=1.act
+st1=IA.cns
+st2=Especials.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

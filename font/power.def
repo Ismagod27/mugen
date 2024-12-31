@@ -1,0 +1,10 @@
+[FNT v2]
+fntversion = 2,00
+name = "power"
+
+[Def]
+Type = bitmap
+Size = 25,35
+Spacing = 1,1
+Offset = 0,1
+File = power.sff
